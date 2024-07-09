@@ -5,7 +5,7 @@ export const SOCIAL_MEDIA = [
 		id: "linkedin",
 		icon: <BsLinkedin />,
 		title: "Visit LinkedIn profile",
-		url: "https:linkedin.com/in/shreepaada-m-c-520702285"
+		url: "https://www.linkedin.com/in/shreepaada-m-c-520702285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 	},
 	{
 		id: "github",

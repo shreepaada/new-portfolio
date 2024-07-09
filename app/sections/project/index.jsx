@@ -41,8 +41,8 @@ const projects = [
   },
   {
     title: "Portfolio page",
-    description: "a portfolio page made using java script and three js",
-    link: "https://github.com/shreepaada/portfolio",
+    description: "creating a next js portfolio page with java script",
+    link: "https://github.com/shreepaada/new-portfolio",
     image: "/6.png"
   },
   {
